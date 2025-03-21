@@ -7,3 +7,4 @@
 full_name = input("Enter your full name: ")
 
 # Print input in all lower case
+print ("Full name:", full_name.lower())
