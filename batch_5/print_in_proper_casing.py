@@ -2,3 +2,6 @@
 # Example:
 # Input: jUAn DEla CrUZ
 # Output: Juan Dela Cruz
+
+# Ask user to input their fullname in incorrect casing
+# Print input in proper casing
