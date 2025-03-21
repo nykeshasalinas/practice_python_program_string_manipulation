@@ -2,3 +2,6 @@
 # Example:
 # Input: jUAn DEla CrUZ
 # Output: juan_dela_cruz
+
+# Ask user to input their fullname in incorrect casing
+# Print input in pascal case
