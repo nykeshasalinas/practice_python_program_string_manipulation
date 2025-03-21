@@ -2,3 +2,6 @@
 # Example:
 # Input: Juan Dela Cruz
 # Output: 14
+
+# Ask user to input a complete statement
+# Print number of words in the input
