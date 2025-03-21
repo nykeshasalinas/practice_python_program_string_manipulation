@@ -2,3 +2,6 @@
 # Example:
 # Input: jUAn DEla CrUZ
 # Output: JuaN deLA cRuz
+
+# Ask user to input their fullname in incorrect casing
+# Print input in reverse casing
