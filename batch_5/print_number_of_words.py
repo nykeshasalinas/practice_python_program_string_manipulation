@@ -4,7 +4,7 @@
 # Output: 14
 
 # Ask user to input a complete statement
-statement = input("Enter your full name in incorrect casing: ")
+statement = input("Enter a complete statement: ")
 
 # Print number of words in the input
 print (len(statement.split()))
