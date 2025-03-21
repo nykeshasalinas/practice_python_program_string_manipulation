@@ -4,4 +4,4 @@
 # Output: juan_dela_cruz
 
 # Ask user to input their fullname in incorrect casing
-# Print input in pascal case
+# Print input in snake case
