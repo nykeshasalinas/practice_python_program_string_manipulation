@@ -3,7 +3,8 @@
 # Input: Juan Dela Cruz
 # Output: 14
 
-# Ask user to input a complete statement
+# Ask user to input their fullname
 full_name = input("Enter your full name: ")
 
-# Print number of words in the input
+# Print number of characters in the input
+print (len(full_name))
