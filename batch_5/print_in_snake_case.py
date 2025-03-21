@@ -7,3 +7,4 @@
 full_name = input("Enter your full name in incorrect casing: ")
 
 # Print input in snake case
+print ((full_name.lower().replace(" ", "_")))
