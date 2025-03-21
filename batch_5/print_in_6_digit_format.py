@@ -4,4 +4,6 @@
 # Output: 000143
 
 # Ask user to input a number from 0 to 1000
+num = int(input("Enter a number from 0 to 1000: "))
+
 # Print input in 6 digit format, fill in with zeros to complete the 6 digit
