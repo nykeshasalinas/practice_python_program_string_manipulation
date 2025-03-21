@@ -7,3 +7,4 @@
 full_name = input("Enter your full name (add spaces before input): ")
 
 # Print input without the spaces in the beginning
+print ("Full name:",full_name.lstrip())
