@@ -2,3 +2,6 @@
 # Example:
 # Input: Juan Dela Cruz
 # Output: JUAN DELA CRUZ
+
+# Ask user to input their fullname
+# Print input in all caps
