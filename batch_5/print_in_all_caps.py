@@ -4,4 +4,6 @@
 # Output: JUAN DELA CRUZ
 
 # Ask user to input their fullname
+full_name = input("Enter your full name: ")
+
 # Print input in all caps
