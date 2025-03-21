@@ -7,3 +7,4 @@
 full_name = input("Enter your full name in incorrect casing: ")
 
 # Print input in reverse casing
+print ("Full name:", full_name.swapcase())
