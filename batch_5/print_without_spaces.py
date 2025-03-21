@@ -2,3 +2,6 @@
 # Example:
 # Input:         Juan Dela Cruz
 # Output: Juan Dela Cruz
+
+# Ask user yo input their fullname, add several space characters at the beginning
+# Print input without the spaces in the beginning
