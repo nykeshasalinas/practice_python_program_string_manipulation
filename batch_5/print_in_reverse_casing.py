@@ -4,4 +4,6 @@
 # Output: JuaN deLA cRuz
 
 # Ask user to input their fullname in incorrect casing
+full_name = input("Enter your full name in incorrect casing: ")
+
 # Print input in reverse casing
