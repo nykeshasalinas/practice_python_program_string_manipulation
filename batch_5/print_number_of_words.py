@@ -2,3 +2,6 @@
 # Example:
 # Input: We will weather the weather whatever the weather whether we like it or not
 # Output: 14
+
+# Ask user to input a complete statement
+# Print number of words in the input
