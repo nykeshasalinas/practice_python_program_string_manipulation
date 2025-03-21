@@ -4,4 +4,6 @@
 # Output: 14
 
 # Ask user to input a complete statement
+statement = input("Enter your full name: ")
+
 # Print number of words in the input
